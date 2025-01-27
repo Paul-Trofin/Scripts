@@ -1,3 +1,9 @@
+######################################################################
+############## THIS FILE IS MOSTLY GENERATED WITH ChatGPT ############
+######################################################################
+##### It extracts cross sections from each run file in Madgraph5 #####
+################# Generates a crossx_energy.txt ######################
+######################################################################
 from bs4 import BeautifulSoup
 
 # Open and read the HTML file
